@@ -2,6 +2,8 @@
 from gtts import gTTS
 import os
 
+print("Converting the text to speech and the creating an audio file")
+
 text = "Hello!, this is a phython program to demonstrate text to speech"
 language = 'en'
 
