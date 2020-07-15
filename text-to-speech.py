@@ -12,3 +12,5 @@ speech = gTTS(text = text, lang = language, slow = False)
 speech.save("E:\\Languages\\Projects\\audio.mp3")
 
 os.system("start E:\\Languages\\Projects\\audio.mp3")
+
+print("")
