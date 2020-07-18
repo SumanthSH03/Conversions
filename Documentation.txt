@@ -1,0 +1,10 @@
+Conversions in detail.
+
+* The 'text-to-speech.py' converts the text given in the program into audio file with name of your choice in folder where the actual program is present. The text is assigned to a variable then converted to audio using GTTS package.
+
+* The 'speech-to-text.py' converts the speech in an audio file (Audio file of format 'wav' as in this program. You can use any format such as mp3,etc) to text and gives the output in text(The language used is English).
+
+* The 'speech-to-text-via-microphone.py' converts the audio given via microphone (here microphone acts as source/input for convrersion) to text as output.
+
+
+
